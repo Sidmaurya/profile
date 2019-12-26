@@ -130,7 +130,7 @@
 			"periodEnd": "May 2019",
 			"toolsUsed": ["python", "flask","NLTK","JavaScript"],
 			"tags": ["python", "chatbot", "college chatbot", "project", "bot"],
-			"shortInfo": "College enquiry chatbot is a based on NLP and developed in python flask . this can help studend as well as college/school faculty for geting any information in just by a single query.",
+			"shortInfo": "College enquiry chatbot is a based on NLP and developed in python flask . this can help student as well as college/school faculty for geting any information in just by a single query.",
 			"link": "https://github.com/Sidmaurya/College-Enquiry-ChatBot"
 		}
 	],
